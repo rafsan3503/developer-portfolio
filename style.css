@@ -12,7 +12,7 @@ h1{
     color: orange;
 }
 
-section{
+.top-banner{
     display: flex;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
@@ -34,4 +34,12 @@ section{
     padding: 10px 40px;
     border-radius: 5px;
     font-weight: 700;
+}
+
+.dream-big{
+    display: flex;
+    margin-top: 100px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
